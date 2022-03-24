@@ -160,6 +160,6 @@ questaoResp(A):- questao(A,B), A = camada_de_rede, write(B), nl.
 questaoResp(A):- questao(A,B), A = ipv4, write(B), nl.
 questaoResp(A):- questao(A,B), A = icmp, write(B), nl.
 
-
+inseri :- repeate, nl, write("Faça sua pergunta: "), nl read(X), nl, write(X), nl, questaoResp(X), X=0.
 
 
