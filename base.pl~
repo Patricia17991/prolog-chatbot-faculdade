@@ -34,9 +34,7 @@ questao(internet,
 	'é uma gigantesca rede mundial de computadores, os quais são interligados por linhas comuns de telefone, linhas privadas de comunicação, cabos submarinos, canais de satélite e inúmeros outros meios de telecomunicação.').
 
 questao(correio_eletrônico,
-	'é um dos primeiros serviços disponíveis para a comunicação em rede. O correio eletrônico
-permite que usuários, enviem e recebam mensagens eletrônicas, usando um endereço eletrônico
-como referência para a localização dos destinatários da mensagem.').
+	'é um dos primeiros serviços disponíveis para a comunicação em rede. O correio eletrônico permite que usuários, enviem e recebam mensagens eletrônicas, usando um endereço eletrônico como referência para a localização dos destinatários da mensagem.').
 
 questao(cabo_coaxial,
 	'foi o primeiro cabo a ser utilizado em redes de computadores. Atualmente, o cabo coaxial
