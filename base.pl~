@@ -61,20 +61,16 @@ questao(topologia_ponto_a_ponto,
 	'caracteriza por enviar os dados apenas em um sentido como, por exemplo, sentido anti-horário.').
 
 questao(topologia_multiponto,
-	'este tipo de topologia é também conhecido como token ring. Caracteriza-se por circular
-no anel, um conjunto padrão de oito bits, chamado de token.').
+	'este tipo de topologia é também conhecido como token ring. Caracteriza-se por circular no anel, um conjunto padrão de oito bits, chamado de token.').
 
 questao(topologia_em_estrela,
-	'caracteriza-se por ter um ponto central para interligar os computadores a fim de
-estabelecer comunicações. O ponto central age como centro de controle da rede, interligando
-todas as máquinas.').
+	'caracteriza-se por ter um ponto central para interligar os computadores a fim de estabelecer comunicações. O ponto central age como centro de controle da rede, interligando todas as máquinas.').
 
 
 % Base DE DADOS II
 
 questao(ethernet,
-	'é um conjunto de protocolos e técnicas para tornar viável a comunicação entre os
-computadores. É usada na grande maioria nas redes de computadores LAN instaladas pelo mundo.').
+	'é um conjunto de protocolos e técnicas para tornar viável a comunicação entre os computadores. É usada na grande maioria nas redes de computadores LAN instaladas pelo mundo.').
 
 questao(endereçamento_ethernet_e_seus_serviços,
 	'em um nível de abstração mais alto, pode-se dizer que a tecnologia ethernet oferece a
