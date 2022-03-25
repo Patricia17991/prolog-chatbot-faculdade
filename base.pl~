@@ -37,35 +37,25 @@ questao(correio_eletrônico,
 	'é um dos primeiros serviços disponíveis para a comunicação em rede. O correio eletrônico permite que usuários, enviem e recebam mensagens eletrônicas, usando um endereço eletrônico como referência para a localização dos destinatários da mensagem.').
 
 questao(cabo_coaxial,
-	'foi o primeiro cabo a ser utilizado em redes de computadores. Atualmente, o cabo coaxial
-não é mais empregado na implementação de redes, pois não é muito flexível e muitos problemas já
-foramdetectados na utilização desse tipo de meio.').
+	'foi o primeiro cabo a ser utilizado em redes de computadores. Atualmente, o cabo coaxial  não é mais empregado na implementação de redes, pois não é muito flexível e muitos problemas já foramdetectados na utilização desse tipo de meio.').
 
 questao(cabo_de_par_trançado,
-	'é um cabo com pares de fios trançado e o mais usado em redes. Além da flexibilidade,
-garante uma velocidade na troca das informações compatível com as interfaces de redes.
-Geralmente, é utilizado em redes locais.').
+	'é um cabo com pares de fios trançado e o mais usado em redes. Além da flexibilidade, garante uma velocidade na troca das informações compatível com as interfaces de redes. Geralmente, é utilizado em redes locais.').
 
 questao(fibra_óptica,
-	'são filamentos flexíveis fabricados em materiais transparentes como fibras de vidro ou
-plástico e que são utilizadas como meio de propagação da luz.').
+	'são filamentos flexíveis fabricados em materiais transparentes como fibras de vidro ou plástico e que são utilizadas como meio de propagação da luz.').
 
 questao(radiofrequência,
-	'é um meio não físico utilizado para transmitir informações. A este tipo de meio
-convencionou-se chamar de wireless e as tecnologias mais conhecidas que desse se utilizam são o
-telefone celular, wi-fi, wimax, satélite, infravermelho e bluetooth.').
+	'é um meio não físico utilizado para transmitir informações. A este tipo de meio convencionou-se chamar de wireless e as tecnologias mais conhecidas que desse se utilizam são o telefone celular, wi-fi, wimax, satélite, infravermelho e bluetooth.').
 
 questao(topologias_de_redes,
-	'é a forma como as interfaces são conectadas umas às outras. Essa característica define o
-seu tipo, a eficiência da rede e sua velocidade.').
+	'é a forma como as interfaces são conectadas umas às outras. Essa característica define o seu tipo, a eficiência da rede e sua velocidade.').
 
 questao(topologia_parcialmente_ligada,
-	'são computadores interligados de forma intermediária, ou seja, não são todos os computadores
-que são interligados.').
+	'são computadores interligados de forma intermediária, ou seja, não são todos os computadores que são interligados.').
 
 questao(topologia_em_barramento,
-	'caracteriza por ter um meio de comunicação comum, ou seja, todos os computadores são conectados a esse
-meio para estabelecer comunicação entre si.').
+	'caracteriza por ter um meio de comunicação comum, ou seja, todos os computadores são conectados a esse meio para estabelecer comunicação entre si.').
 
 questao(topologia_ponto_a_ponto,
 	'caracteriza por enviar os dados apenas em um sentido como, por exemplo, sentido anti-horário.').
