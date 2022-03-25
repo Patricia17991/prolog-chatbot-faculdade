@@ -28,13 +28,10 @@ questao(rede_man,
 	'são redes que têm alcance metropolitano. Ou seja, uma rede que interconecta recursos computacionais em uma área referente a uma metrópole.').
 
 questao(rede_wan,
-	'são redes que interconecta recursos computacionais distantes geograficamente uns dos outros.
-Nessas redes são colocados equipamentos que interligam cidades e até continentes.').
+	'são redes que interconecta recursos computacionais distantes geograficamente uns dos outros. Nessas redes são colocados equipamentos que interligam cidades e até continentes.').
 
 questao(internet,
-	'é uma gigantesca rede mundial de computadores, os quais são interligados por linhas comuns de
-telefone, linhas privadas de comunicação, cabos submarinos, canais de satélite e inúmeros outros
-meios de telecomunicação.').
+	'é uma gigantesca rede mundial de computadores, os quais são interligados por linhas comuns de telefone, linhas privadas de comunicação, cabos submarinos, canais de satélite e inúmeros outros meios de telecomunicação.').
 
 questao(correio_eletrônico,
 	'é um dos primeiros serviços disponíveis para a comunicação em rede. O correio eletrônico
