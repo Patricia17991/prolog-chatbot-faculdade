@@ -1,189 +1,186 @@
 % BASE DE DADOS I
 
 questao(rede_de_computadores,
-	'È um conjunto de dois ou mais dispositivos eletrÙnicos de computaÁ„o, ou mÛdulos
-processadores ou nÛs da rede, interligados por um sistema de comunicaÁ„o digital,
-ou link de dados, guiados por um conjunto de regras (protocolo de rede),
-para compartilhar entre si informaÁ„o,	serviÁos e, recursos fÌsicos e lÛgicos.').
+	'√© um conjunto de dois ou mais dispositivos eletr√¥nicos de computa√ß√£o, ou m√≥dulos processadores ou n√≥s da rede, interligados por um sistema de comunica√ß√£o digital, ou link de dados, guiados por um conjunto de regras (protocolo de rede), paa compartilhar entre si informa√ß√£o,	servi√ßos e, recursos f√≠sicos e l√≥gicos.').
 
-questao(classificaÁ„o_de_redes,
-	's„o classificadas em trÍs categorias, WAN( World ¡rea NetWork), LAN (Local ¡rea NetWork)
-e MAN (Metropolitan ¡rea NetWork).').
+questao(classifica√ß√£o_de_redes,
+	's√£o classificadas em tr√™s categorias, WAN( World √Årea NetWork), LAN (Local √Årea NetWork)
+e MAN (Metropolitan √Årea NetWork).').
 
 questao(roteador,
-	'È um dispositivo de interconex„o que encaminha pacotes entre redes processando as
-informaÁıes de roteamento, incluÌdas no pacote ou datagrama.').
+	'√© um dispositivo de interconex√£o que encaminha pacotes entre redes processando as
+informa√ß√µes de roteamento, inclu√≠das no pacote ou datagrama.').
 
 questao(placa_de_rede,
-	'È um elemento empregado como interface entre o computador e o cabeamento da rede,
-conhecido tambÈm como adaptador.').
+	'√© um elemento empregado como interface entre o computador e o cabeamento da rede,
+conhecido tamb√©m como adaptador.').
 
 questao(modem,
-	'È um elemento utilizado para modular o sinal digital para que possa ser transmitido.
-Ou seja, transforma os sinais elÈtricos digitais, que saem do computador,
-em um formato adequado ao meio de transmiss„o.').
+	'√© um elemento utilizado para modular o sinal digital para que possa ser transmitido.
+Ou seja, transforma os sinais el√©tricos digitais, que saem do computador,
+em um formato adequado ao meio de transmiss√£o.').
 
 questao(repetidor,
-	'È um elemento empregado para a interligaÁ„o de duas ou mais redes idÍnticas,
-transformando-as em uma ˙nica rede lÛgica.').
+	'√© um elemento empregado para a interliga√ß√£o de duas ou mais redes id√™nticas,
+transformando-as em uma √∫nica rede l√≥gica.').
 
 questao(switch,
-	'È um elemento utilizado para interligar computadores e redes a fim de concentrar o
-cabeamento e permitir a conex„o de redes de tipos diferentes.').
+	'√© um elemento utilizado para interligar computadores e redes a fim de concentrar o
+cabeamento e permitir a conex√£o de redes de tipos diferentes.').
 
 questao(rede_lan,
-	's„o redes locais de empresas, escritÛrios, laboratÛrios de inform·tica ou atÈ domÈsticas.
-Em sÌntese, È restrita a uma pequena ·rea.').
+	's√£o redes locais de empresas, escrit√≥rios, laborat√≥rios de inform√°tica ou at√© dom√©sticas.
+Em s√≠ntese, √© restrita a uma pequena √°rea.').
 
 questao(rede_man,
-	's„o redes que tÍm alcance metropolitano. Ou seja, uma rede que interconecta recursos
-computacionais em uma ·rea referente a uma metrÛpole.').
+	's√£o redes que t√™m alcance metropolitano. Ou seja, uma rede que interconecta recursos
+computacionais em uma √°rea referente a uma metr√≥pole.').
 
 questao(rede_wan,
-	's„o redes que interconecta recursos computacionais distantes geograficamente uns dos outros.
-Nessas redes s„o colocados equipamentos que interligam cidades e atÈ continentes.').
+	's√£o redes que interconecta recursos computacionais distantes geograficamente uns dos outros.
+Nessas redes s√£o colocados equipamentos que interligam cidades e at√© continentes.').
 
 questao(internet,
-	'È uma gigantesca rede mundial de computadores, os quais s„o interligados por linhas comuns de
-telefone, linhas privadas de comunicaÁ„o, cabos submarinos, canais de satÈlite e in˙meros outros
-meios de telecomunicaÁ„o.').
+	'√© uma gigantesca rede mundial de computadores, os quais s√£o interligados por linhas comuns de
+telefone, linhas privadas de comunica√ß√£o, cabos submarinos, canais de sat√©lite e in√∫meros outros
+meios de telecomunica√ß√£o.').
 
-questao(correio_eletrÙnico,
-	'È um dos primeiros serviÁos disponÌveis para a comunicaÁ„o em rede. O correio eletrÙnico
-permite que usu·rios, enviem e recebam mensagens eletrÙnicas, usando um endereÁo eletrÙnico
-como referÍncia para a localizaÁ„o dos destinat·rios da mensagem.').
+questao(correio_eletr√¥nico,
+	'√© um dos primeiros servi√ßos dispon√≠veis para a comunica√ß√£o em rede. O correio eletr√¥nico
+permite que usu√°rios, enviem e recebam mensagens eletr√¥nicas, usando um endere√ßo eletr√¥nico
+como refer√™ncia para a localiza√ß√£o dos destinat√°rios da mensagem.').
 
 questao(cabo_coaxial,
 	'foi o primeiro cabo a ser utilizado em redes de computadores. Atualmente, o cabo coaxial
-n„o È mais empregado na implementaÁ„o de redes, pois n„o È muito flexÌvel e muitos problemas j·
-foramdetectados na utilizaÁ„o desse tipo de meio.').
+n√£o √© mais empregado na implementa√ß√£o de redes, pois n√£o √© muito flex√≠vel e muitos problemas j√°
+foramdetectados na utiliza√ß√£o desse tipo de meio.').
 
-questao(cabo_de_par_tranÁado,
-	'È um cabo com pares de fios tranÁado e o mais usado em redes. AlÈm da flexibilidade,
-garante uma velocidade na troca das informaÁıes compatÌvel com as interfaces de redes.
-Geralmente, È utilizado em redes locais.').
+questao(cabo_de_par_tran√ßado,
+	'√© um cabo com pares de fios tran√ßado e o mais usado em redes. Al√©m da flexibilidade,
+garante uma velocidade na troca das informa√ß√µes compat√≠vel com as interfaces de redes.
+Geralmente, √© utilizado em redes locais.').
 
-questao(fibra_Ûptica,
-	's„o filamentos flexÌveis fabricados em materiais transparentes como fibras de vidro ou
-pl·stico e que s„o utilizadas como meio de propagaÁ„o da luz.').
+questao(fibra_√≥ptica,
+	's√£o filamentos flex√≠veis fabricados em materiais transparentes como fibras de vidro ou
+pl√°stico e que s√£o utilizadas como meio de propaga√ß√£o da luz.').
 
-questao(radiofrequÍncia,
-	'È um meio n„o fÌsico utilizado para transmitir informaÁıes. A este tipo de meio
-convencionou-se chamar de wireless e as tecnologias mais conhecidas que desse se utilizam s„o o
-telefone celular, wi-fi, wimax, satÈlite, infravermelho e bluetooth.').
+questao(radiofrequ√™ncia,
+	'√© um meio n√£o f√≠sico utilizado para transmitir informa√ß√µes. A este tipo de meio
+convencionou-se chamar de wireless e as tecnologias mais conhecidas que desse se utilizam s√£o o
+telefone celular, wi-fi, wimax, sat√©lite, infravermelho e bluetooth.').
 
 questao(topologias_de_redes,
-	'È a forma como as interfaces s„o conectadas umas ‡s outras. Essa caracterÌstica define o
-seu tipo, a eficiÍncia da rede e sua velocidade.').
+	'√© a forma como as interfaces s√£o conectadas umas √†s outras. Essa caracter√≠stica define o
+seu tipo, a efici√™ncia da rede e sua velocidade.').
 
 questao(topologia_parcialmente_ligada,
-	's„o computadores interligados de forma intermedi·ria, ou seja, n„o s„o todos os computadores
-que s„o interligados.').
+	's√£o computadores interligados de forma intermedi√°ria, ou seja, n√£o s√£o todos os computadores
+que s√£o interligados.').
 
 questao(topologia_em_barramento,
-	'caracteriza por ter um meio de comunicaÁ„o comum, ou seja, todos os computadores s„o conectados a esse
-meio para estabelecer comunicaÁ„o entre si.').
+	'caracteriza por ter um meio de comunica√ß√£o comum, ou seja, todos os computadores s√£o conectados a esse
+meio para estabelecer comunica√ß√£o entre si.').
 
 questao(topologia_ponto_a_ponto,
-	'caracteriza por enviar os dados apenas em um sentido como, por exemplo, sentido anti-hor·rio.').
+	'caracteriza por enviar os dados apenas em um sentido como, por exemplo, sentido anti-hor√°rio.').
 
 questao(topologia_multiponto,
-	'este tipo de topologia È tambÈm conhecido como token ring. Caracteriza-se por circular
-no anel, um conjunto padr„o de oito bits, chamado de token.').
+	'este tipo de topologia √© tamb√©m conhecido como token ring. Caracteriza-se por circular
+no anel, um conjunto padr√£o de oito bits, chamado de token.').
 
 questao(topologia_em_estrela,
 	'caracteriza-se por ter um ponto central para interligar os computadores a fim de
-estabelecer comunicaÁıes. O ponto central age como centro de controle da rede, interligando
-todas as m·quinas.').
+estabelecer comunica√ß√µes. O ponto central age como centro de controle da rede, interligando
+todas as m√°quinas.').
 
 
 % Base DE DADOS II
 
 questao(ethernet,
-	'È um conjunto de protocolos e tÈcnicas para tornar vi·vel a comunicaÁ„o entre os
-computadores. … usada na grande maioria nas redes de computadores LAN instaladas pelo mundo.').
+	'√© um conjunto de protocolos e t√©cnicas para tornar vi√°vel a comunica√ß√£o entre os
+computadores. √â usada na grande maioria nas redes de computadores LAN instaladas pelo mundo.').
 
-questao(endereÁamento_ethernet_e_seus_serviÁos,
-	'em um nÌvel de abstraÁ„o mais alto, pode-se dizer que a tecnologia ethernet oferece a
-comunicaÁ„o entre equipamentos de uma mesma rede fÌsica sem o uso de conexıes e com serviÁos:
-ï Unicast, ou seja, um quadro ethernet vai para um destino ˙nico. Analogamente, pode-se tomar como
-exemplo o envio de um e-mail para uma ˙nica pessoa;
-o e-mail È direcionado;
-ï Multicast, em que um quadro vai para m˙ltiplos destinos. Analogamente, pode-se tomar como
+questao(endere√ßamento_ethernet_e_seus_servi√ßos,
+	'em um n√≠vel de abstra√ß√£o mais alto, pode-se dizer que a tecnologia ethernet oferece a
+comunica√ß√£o entre equipamentos de uma mesma rede f√≠sica sem o uso de conex√µes e com servi√ßos:
+‚Ä¢ Unicast, ou seja, um quadro ethernet vai para um destino √∫nico. Analogamente, pode-se tomar como
+exemplo o envio de um e-mail para uma √∫nica pessoa;
+o e-mail √© direcionado;
+‚Ä¢ Multicast, em que um quadro vai para m√∫ltiplos destinos. Analogamente, pode-se tomar como
 exemplo o envio de um e-mail para um grupo de pessoas;
-portanto, um e-mail È distribuÌdo para um grupo de pessoas;
-ï Broadcast, em que um quadro vai para todos os destinos, ou seja, o quadro È enviado para todas
-as m·quinas de uma mesma rede.').
+portanto, um e-mail √© distribu√≠do para um grupo de pessoas;
+‚Ä¢ Broadcast, em que um quadro vai para todos os destinos, ou seja, o quadro √© enviado para todas
+as m√°quinas de uma mesma rede.').
 
 questao(protocolo_mac,
-	'È uma forma de organizar o acesso ao meio, de modo que cada estaÁ„o possa, eventualmente,
+	'√© uma forma de organizar o acesso ao meio, de modo que cada esta√ß√£o possa, eventualmente,
 transmitir um quadro de cada vez.').
 
 questao(gigabit_ethernet,
-	'a integraÁ„o de sistemas computacionais mais r·pidos e a migraÁ„o da fast ethernet
-dos backbones para a LAN criaram ìgargalosî para o servidor e para as conexıes comutadas.
-O gigabit ethernet alivia esse congestionamento, tornando-se uma tecnologia mais r·pida para o
+	'a integra√ß√£o de sistemas computacionais mais r√°pidos e a migra√ß√£o da fast ethernet
+dos backbones para a LAN criaram ‚Äúgargalos‚Äù para o servidor e para as conex√µes comutadas.
+O gigabit ethernet alivia esse congestionamento, tornando-se uma tecnologia mais r√°pida para o
 backbone.').
 
 questao(metro_ethernet,
-	'È uma tecnologia que permite utilizar redes ethernet em ·reas metropolitanas e
-geograficamente distribuÌdas.').
+	'√© uma tecnologia que permite utilizar redes ethernet em √°reas metropolitanas e
+geograficamente distribu√≠das.').
 
 questao(protocolo_tcp/ip,
-	'endereÁo usado pelas m·quinas para se comunicarem umas com as outras. O processo para
-que uma mensagem ou informaÁ„o seja enviada de uma m·quina para outra passa por v·rios protocolos
-de comunicaÁ„o e, geralmente, todos os protocolos usados pertencem ‡ suÌte TCP/IP.').
+	'endere√ßo usado pelas m√°quinas para se comunicarem umas com as outras. O processo para
+que uma mensagem ou informa√ß√£o seja enviada de uma m√°quina para outra passa por v√°rios protocolos
+de comunica√ß√£o e, geralmente, todos os protocolos usados pertencem √† su√≠te TCP/IP.').
 
 questao(protocolos_que_constituem_o _tcp,
-	'aplicaÁ„o, apresentaÁ„o, sess„o, transporte, redes, enlace e fÌsica.').
+	'aplica√ß√£o, apresenta√ß√£o, sess√£o, transporte, redes, enlace e f√≠sica.').
 
 questao(igrp,
-	'este protocolo È propriet·rio da Cisco. Foi projetado com o objetivo de trazer melhorias
+	'este protocolo √© propriet√°rio da Cisco. Foi projetado com o objetivo de trazer melhorias
 para o protocolo RIP. Conforme a rede foi crescendo, o protocolo RIP passou a ficar limitado,
 de modo que o protocolo IGRP solucionou alguns problemas relacionados a rotas em redes grandes e
-heterogÍneas.').
+heterog√™neas.').
 
 questao(eigrp,
-	'outro protocolo desenvolvido pela Cisco. … considerado um protocolo hÌbrido combinando
-as melhores caracterÌsticas dos protocolos para a definiÁ„o de rotas com base em vetores de
-dist‚ncia e em estado de ligaÁ„o.').
+	'outro protocolo desenvolvido pela Cisco. √â considerado um protocolo h√≠brido combinando
+as melhores caracter√≠sticas dos protocolos para a defini√ß√£o de rotas com base em vetores de
+dist√¢ncia e em estado de liga√ß√£o.').
 
 questao(smtp,
-	'È um dos serviÁos prestados pela camada de aplicaÁ„o. Os componentes b·sicos envolvidos
-na troca de mensagens atravÈs do SMTP s„o: Agente usu·rio e Caixa postal. O SMTP utiliza os
-serviÁos da camada de transporte atravÈs do protocolo TCP para transferir mensagens.
-Apresenta uma estrutura organizada para a transmiss„o dos dados.').
+	'√© um dos servi√ßos prestados pela camada de aplica√ß√£o. Os componentes b√°sicos envolvidos
+na troca de mensagens atrav√©s do SMTP s√£o: Agente usu√°rio e Caixa postal. O SMTP utiliza os
+servi√ßos da camada de transporte atrav√©s do protocolo TCP para transferir mensagens.
+Apresenta uma estrutura organizada para a transmiss√£o dos dados.').
 
 questao(telnet,
-	'È um protocolo para acesso remoto utilizado para configuraÁıes de m·quinas. Fornece um
-serviÁo de terminal virtual. Uma vez estabelecida uma sess„o de login remoto, Telnet disponibiliza
-mecanismos necess·rios para que os caracteres digitados na m·quina local sejam passados diretamente
-‡ m·quina remota.').
+	'√© um protocolo para acesso remoto utilizado para configura√ß√µes de m√°quinas. Fornece um
+servi√ßo de terminal virtual. Uma vez estabelecida uma sess√£o de login remoto, Telnet disponibiliza
+mecanismos necess√°rios para que os caracteres digitados na m√°quina local sejam passados diretamente
+√† m√°quina remota.').
 
 questao(ftp,
-	'È um protocolo de transferÍncia de arquivos entre dois sistemas que utiliza duas conexıes:
-uma È empregada para dar suporte ao processo de transferÍncia de dados e a outra conex„o È
-utilizada para dar suporte aos v·rios processos de controle da sess„o.').
+	'√© um protocolo de transfer√™ncia de arquivos entre dois sistemas que utiliza duas conex√µes:
+uma √© empregada para dar suporte ao processo de transfer√™ncia de dados e a outra conex√£o √©
+utilizada para dar suporte aos v√°rios processos de controle da sess√£o.').
 
 questao(http,
-	'protocolo de transferÍncia e hipertexto È o protocolo em que a world wide web
-est· baseada. … considerado um protocolo de pedido e resposta e funciona da seguinte forma:
-um programa cliente estabelece uma conex„o TCP com um programa servidor HTTP.').
+	'protocolo de transfer√™ncia e hipertexto √© o protocolo em que a world wide web
+est√° baseada. √â considerado um protocolo de pedido e resposta e funciona da seguinte forma:
+um programa cliente estabelece uma conex√£o TCP com um programa servidor HTTP.').
 
 questao(camada_de_rede,
-	'fornecer os serviÁos de transferÍncia de dados fim a fim sobre uma rede,
-independentemente das caracterÌsticas das subredes fÌsicas. Est· mais relacionada ‡ topologia de
-rede e tem como uma de suas principais funÁıes resolver problemas de roteamento em rede.').
+	'fornecer os servi√ßos de transfer√™ncia de dados fim a fim sobre uma rede,
+independentemente das caracter√≠sticas das subredes f√≠sicas. Est√° mais relacionada √† topologia de
+rede e tem como uma de suas principais fun√ß√µes resolver problemas de roteamento em rede.').
 
 questao(ipv4,
-	'quarta vers„o do Protocolo de Internet (IP). Ele È um dos principais protocolos de
-padrıes baseados em mÈtodos de interconex„o de redes na Internet, e foi a primeira vers„o
-implementada para a produÁ„o da ARPANET , em 1983. Ele ainda roteia a maior parte do tr·fego da
+	'quarta vers√£o do Protocolo de Internet (IP). Ele √© um dos principais protocolos de
+padr√µes baseados em m√©todos de interconex√£o de redes na Internet, e foi a primeira vers√£o
+implementada para a produ√ß√£o da ARPANET , em 1983. Ele ainda roteia a maior parte do tr√°fego da
 Internet de hoje.').
 
 questao(icmp,
-	'È um protocolo da camada 3, usado para trocar mensagens entre equipamentos que est„o
-interligados na rede. Em redes LAN, È empregado, pelos administradores de rede, para verificar se
-um determinado equipamento est· devidamente conectado ‡ rede. O ICMP È usado tambÈm pelos
-roteadores para trocar mensagens de erros para o IP de forma autom·tica. Quando h· erros de
-entrega de um datagrama, o ICMP È utilizado para relat·-los ao emissor do datagrama').
+	'√© um protocolo da camada 3, usado para trocar mensagens entre equipamentos que est√£o
+interligados na rede. Em redes LAN, √© empregado, pelos administradores de rede, para verificar se
+um determinado equipamento est√° devidamente conectado √† rede. O ICMP √© usado tamb√©m pelos
+roteadores para trocar mensagens de erros para o IP de forma autom√°tica. Quando h√° erros de
+entrega de um datagrama, o ICMP √© utilizado para relat√°-los ao emissor do datagrama').
